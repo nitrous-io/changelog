@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changelog, May 9th 2013
+title: Changelog - May 9th, 2013
 ---
 
 Oh hey, didn't see you there. If you haven't noticed over the past week, we've pushed some updates:
