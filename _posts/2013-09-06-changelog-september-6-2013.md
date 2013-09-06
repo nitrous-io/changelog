@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changelog - September 6th, 2013
+title: Changelog - September 6, 2013
 ---
 
 Things have been very exciting this week! Check out the goods delivered by [@nitrousio](http://www.twitter.com/nitrousio).
