@@ -60,6 +60,10 @@ text-transform: lowercase;
   margin-left: 8px;
 }
 
+.btn{
+  font-weight: normal;
+}
+
 .navbar-nav > li.signup > a.btn.btn-success {
   padding: 3px 10px;
   color: #fff;
