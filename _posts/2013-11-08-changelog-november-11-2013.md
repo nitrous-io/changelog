@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changelog - November 8, 2013
+title: Changelog - November 11, 2013
 ---
 
 [Collaboration](http://help.nitrous.io/collab/) got some love this week. Try it with a colleague out if you haven't!
