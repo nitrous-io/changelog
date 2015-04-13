@@ -28,14 +28,14 @@ img {
 }
 
 .navbar-brand span {
-color: #9CB6EB;
+color: #8A92a9;
 font-size: 16px;
 font-family: "EurostileLTPro-BoldEx2", Arial, Sans-serif;
 text-transform: lowercase;
 }
 
 .navbar {
-  background: #2692d7;
+  background: #4e5862;
   border-radius: 0;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
@@ -48,8 +48,29 @@ text-transform: lowercase;
   -webkit-font-smoothing: antialiased;
 }
 
+.navbar a.navbar-brand {
+  font-size: 2rem;
+  font-weight: 300;
+  color: #fff;
+  font-family: 'EurostileLTPro-BoldEx2';
+  text-transform: uppercase;
+}
+
+.navbar a.primary.btn {
+  height: 34px;
+  line-height: 32px;
+  display: block;
+  position: relative;
+  margin-top: 8px;
+  padding: 0 12px;
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 4px;
+}
+
 .navbar-nav > li > a {
-  color: #e3ecff;
+  color: #e8e8e8;
+  font-size: 1.4rem;
+  font-weight: 300;
 }
 
 .navbar-nav > li > a:hover {
